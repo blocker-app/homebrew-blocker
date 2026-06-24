@@ -1,6 +1,6 @@
 cask "blocker" do
-  version "0.11.0"
-  sha256 "4eac6a8432389738f2b13caf378ef0510d453286c9d7fb64035bde7571e96e9c"
+  version "1.0.0"
+  sha256 "243664ea87821a9e023712f7ee65b54190b4337027760c529dafb67b20de8048"
 
   url "https://github.com/leo-mathurin/blocker-releases/releases/download/v#{version}/blocker-#{version}.dmg",
       verified: "github.com/leo-mathurin/blocker-releases/"
