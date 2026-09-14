@@ -7,7 +7,7 @@ Website: https://getblocker.app
 ## Install
 
 ```bash
-brew install --cask leo-mathurin/blocker/blocker
+brew install --cask blocker-app/blocker/blocker
 ```
 
 ## Update
@@ -28,4 +28,4 @@ macOS 12 (Monterey) or later. Apple Silicon and Intel are both supported.
 
 ## Source
 
-The application source lives in a private repository. Signed and notarized release binaries are published at [`leo-mathurin/blocker-releases`](https://github.com/leo-mathurin/blocker-releases).
+The application source lives in a private repository. Signed and notarized release binaries are published at [`blocker-app/blocker-releases`](https://github.com/blocker-app/blocker-releases).
