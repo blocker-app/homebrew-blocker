@@ -1,6 +1,6 @@
 cask "blocker" do
-  version "1.4.2"
-  sha256 "2add71480a25e72a0baea055521d1758681d037cd79a41f73591ce77710dbc55"
+  version "1.5.0"
+  sha256 "1491290d08ba553cf3c3ae345aaf9c7445b8859756ce241b2177a2917e0762bc"
 
   url "https://github.com/blocker-app/blocker-releases/releases/download/v#{version}/blocker-#{version}.dmg",
       verified: "github.com/blocker-app/blocker-releases/"
